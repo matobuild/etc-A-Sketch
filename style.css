@@ -1,0 +1,9 @@
+body {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    background-color: blueviolet;
+}
